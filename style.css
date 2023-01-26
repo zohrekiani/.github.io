@@ -1,0 +1,26 @@
+*{
+      background-color: rgb(227, 233, 255);
+}
+.introduction {
+      margin: 0px;
+      
+      
+}
+.img-jeld{
+
+      height: 500px;
+      width: 350px;
+}
+.imgs{
+      height: 550px;
+      width: 400px;
+
+}
+.portfolio{
+     
+      --bs-gap : 2.5rem;
+}
+border{
+      border-bottom: 3px solid grey;
+      margin-top: 40px;
+}
